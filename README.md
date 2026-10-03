@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am current learning languages
 I am editor<br>
 
 
